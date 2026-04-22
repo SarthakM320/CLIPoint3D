@@ -2,7 +2,7 @@
 > [Mainak Singha](https://mainaksingha01.github.io/), [Sarthak Mehrotra](https://scholar.google.com/citations?user=87yQ-vQAAAAJ&hl=en), [Paolo Casari](https://scholar.google.com/citations?user=CSaXahIAAAAJ&hl=en), [Subhasis Chaudhuri](https://scholar.google.com/citations?user=84VkdegAAAAJ&hl=en), [Elisa Ricci](https://eliricci.eu/), [Biplab Banerjee](https://biplab-banerjee.github.io/)
 
 
-[![arXiv](https://img.shields.io/badge/arXiv-2602.20409-b31b1b.svg)](https://arxiv.org/abs/2602.20409v1)
+[![arXiv](https://img.shields.io/badge/arXiv-2602.20409-b31b1b.svg)](https://arxiv.org/abs/2602.20409v2)
 [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://sarthakm320.github.io/CLIPoint3D)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](LICENSE)
 
